@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 About Me  
-I create modern, responsive, and reusable **HTML / CSS / JavaScript / Bootstrap** templates and landing pages.  
+I create modern, responsive, and reusable **HTML / CSS / JavaScript / Bootstrap / Tailwind CSS** templates and landing pages.  
 My work focuses on clean UI, smooth layout flow, and lightweight performance.
 
 ## 🚀 What I Build
